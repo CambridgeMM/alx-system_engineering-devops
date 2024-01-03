@@ -1,2 +1,6 @@
 #!/usr/bin/env ruby
-/School/
+School
+School
+School
+aaahSchool
+Schoolaaa
